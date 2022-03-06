@@ -20,6 +20,7 @@
 .main_container {
   background-image: url(./pattern-background-desktop.svg);
   background-repeat: no-repeat;
+  background-size: contain;
   width: 100%;
   min-height: 100vh;
   position: fixed;
